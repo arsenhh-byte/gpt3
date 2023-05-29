@@ -19,6 +19,8 @@
     font-size: 62px;
     line-height: 75px;
     letter-spacing: -0.04em;
+    color: var(--color-text);
+    
 }
 
 .gpt3__header-content p {
