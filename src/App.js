@@ -3,7 +3,7 @@
 import React from 'react'
 import './App.css'
 
-import { Footer, Blog, Possibility, Features, WhatGPT4, Header } from './containers';
+import { Footer, Blog, Possibility, Features, WhatGPT3, Header } from './containers';
 import { CTA, Brand, Navbar} from './components';
 
 const App = () => {
@@ -15,7 +15,7 @@ const App = () => {
         <Header />
       </div>
       <Brand />
-      <WhatGPT4 />
+      <WhatGPT3 />
       <Features />
       <Possibility />
       <Blog />

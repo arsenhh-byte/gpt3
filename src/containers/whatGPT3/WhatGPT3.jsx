@@ -1,10 +1,10 @@
 import React from 'react'
-import './whatGPT4.css'
+import './whatGPT3.css'
 import { Feature } from '../../components'
 
-const WhatGPT4 = () => {
+const whatGPT3 = () => {
   return (
-    <div className='gpt3__whatgpt3 section__margin' id="whpt3">
+    <div className='gpt3__whatgpt3 section__margin' id="wgpt3">
       <div className="gpt3__whatgpt3-feature">
       <Feature title="What is GPT-3" text="We so opinion friends me message as delight. Whole front do of plate heard oh ought. His defective nor convinced residence own. Connection has put impossible own apartments boisterous. At jointure ladyship an insisted so humanity he. Friendly bachelor entrance to on by." />
       </div>
@@ -24,4 +24,4 @@ const WhatGPT4 = () => {
   )
 }
 
-export default WhatGPT4
+export default whatGPT3
